@@ -1,0 +1,6 @@
+framework module MyHud {
+  umbrella header "MyHud-umbrella.h"
+
+  export *
+  module * { export * }
+}
