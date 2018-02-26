@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MyHud_Tests' do
+  pod 'MyHud', :path => '../'
+  
+  
+end
